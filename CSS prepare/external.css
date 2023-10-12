@@ -1,0 +1,18 @@
+.head{
+    background-color: red;
+    height: 100px;
+    margin-right: 70%;
+}
+
+.foot{
+    background-color: red;
+    height: 90px;
+    margin-top: 50px;
+    margin-right: 70%;
+}
+
+.parent{
+border: 5px solid yellow;
+margin-right: 60%;
+padding-left: 10px;
+}

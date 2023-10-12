@@ -1,0 +1,21 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+.header{
+    text-align: center;
+    background-color: skyblue;
+    font-size: large;
+   
+}
+.para{
+    background-color: brown;
+    display: inline;
+    
+}
+
+.the{
+    background-color: aqua;
+    display: inline;
+}
